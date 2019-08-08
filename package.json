@@ -1,5 +1,13 @@
 {
   "name": "arrif",
+  "author": {
+    "name": "Imed Adel",
+    "email": "aadelimed@gmail.com",
+    "url": "https://imedadel.me"
+  },
+  "homepage": "https://github.com/ImedAdel/arrif",
+  "repository": "https://github.com/ImedAdel/arrif",
+  "license": "MIT",
   "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/arrif.esm.js",
